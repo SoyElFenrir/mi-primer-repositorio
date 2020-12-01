@@ -8,6 +8,9 @@
     }
 }
 
+
+
+
 const perro = new Mascota('perro', 'salchicha', 'pepe', 'verde', 'grande')
 
 console.log('Detalle de tu mascota: ', perro)*/
