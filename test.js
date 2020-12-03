@@ -10,8 +10,6 @@ console.log('array: ', newArray)
 // })
 // console.log(set)
 
-
-
 //ejercicio 2
 // const array1 = ['a', 'b', 'c', 'd']
 // const array2 = ['a', 'b', 'c', 'd', 'f', 'g']
